@@ -1,0 +1,13 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Technical stack
+
+- .net 8 and c# for the backend
+- html and javascript for the frontend
+- postgressql for storage
+- Separate databases for dev, test and prod
+
+- cypress for tests
