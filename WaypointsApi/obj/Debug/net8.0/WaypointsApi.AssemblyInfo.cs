@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WaypointsApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc92dc24f999075e0a3091bfb95256a05ceec83a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92c607cb02df79ebab818a5c50efa18b9686717b")]
 [assembly: System.Reflection.AssemblyProductAttribute("WaypointsApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WaypointsApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -39,8 +39,7 @@ namespace WaypointsApi.Controllers
             {
                 foreach (var bp in waypoint.BorderPoints)
                 {
-                    bp.Id = 0;
-                    // WaypointId will be set after saving the waypoint
+                    bp.Id = 0; // Ensure the database generates a new Id
                 }
             }
             _context.Waypoints.Add(waypoint);
